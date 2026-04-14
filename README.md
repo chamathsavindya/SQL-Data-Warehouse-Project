@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the "Data warehouse and Analytics project" repository ..
+Welcome to the "Data warehouse and Analytics project" repository .
 This project Build a modern data warehouse with SQL server, including ETL processes, data modeling, and analytics. Desined as a portfolio project that highlights industry best practices in the data engineering and analytics. 
 
 ---
